@@ -1,0 +1,32 @@
+body{
+    margin: 30px;
+}
+h1{
+    text-align: center;
+}
+
+a{
+    color: blue;
+}
+div.navInferior{
+    padding: 80px ;
+}
+a.nav{
+    text-decoration: none;
+    border: 1px solid blue;
+    padding: 15px;
+    color: white;
+    background-color: blue;
+    font-weight: bolder;
+    
+}
+a.proximo{
+    float: right;
+    border-radius: 10px 40px 40px 10px ;
+}
+
+a.anterior{
+    float: left;
+    border-radius: 40px 10px 10px 40px ;
+
+}
